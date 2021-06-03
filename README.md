@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed
-- 👀 I’m interested in data analytics/science, python programming, excel/vba 
-- 🌱 I’m currently expanding my sills with Python  
+- 👀 I’m interested in data analytics/science, python programming, excel/vba, and SQL
+- 🌱 I’m currently expanding my sills with Python  and learning to automate Excel tasks 
 - 💞️ I’m looking to collaborate on Data Science/analytics projects
 
 
