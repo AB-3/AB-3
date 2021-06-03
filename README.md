@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AB-3
+- 👋 Hi, I’m Ahmed
 - 👀 I’m interested in data analytics/science, python programming, excel/vba 
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on Data Science/analytics projects
